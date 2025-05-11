@@ -54,6 +54,7 @@ Além disso o sensor também monitora a quantidade de pessoas que entram, saem e
 
 Um dos blocos mais importantes do projeto é o sensor HC-SR04, que é um sensor ultrasônico que emite periodicamente pulsos sonoros de alta frequência pelo pino “echo”, e capta a saída pelo pino ativador “trigger” que fica conectado à uma saída digital do arduino, dessa maneira é possível medir as distâncias que um objeto fica a partir do centro do sensor, que tem uma área de cobertura cônica, como mostra a figura abaixo.
 
+![Sensor HC-SR04](imagens/HC_SR04.png)
 Figura 1 - Sensor HC-SR04 no tinkercad
 
 Assim então é calculado o tempo em que o pino "Echo" ficou em nível alto, ou seja, recebeu um sinal emitido pelo trigger e refletido pelo objeto que estava na frente do sensor.
@@ -72,6 +73,7 @@ Os componentes usados neste projeto são:
 
 A figura abaixo mostra o diagrama de blocos do sensor de presença.
 
+![Diagrama de blocos do projeto](imagens/Block_diagram.png)
 Figura 2 - Diagrama de blocos do projeto
 
 O diagrama de blocos mostra a característica dual do sistema do projeto implementado, a saída do arduino pode ser vista como uma soma, ou um arranjo paralelo de duas saídas, que são exatamente as duas aplicações propostas para o projeto, e são saídas de natureza diferentes, logo não é possível achar uma função de transferência para o sistema.
