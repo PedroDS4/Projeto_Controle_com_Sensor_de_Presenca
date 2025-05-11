@@ -301,9 +301,10 @@ if timestamps and entradas and saidas and pessoas_na_sala:
 
 ### 3.3 SIMULAÇÃO NO TINKERCAD <a name="simulacao-no-tinkercad"></a>
 
-Foi realizada uma simulação iterativa no tinkercad, usando a iteração com o sensor HC-SR04, e foram testados os movimentos de entrada e saída para confirmar o funcionamento.
+Foi realizada uma simulação iterativa no tinkercad, usando a iteração com o sensor HC-SR04, e foram testados os movimentos de entrada e saída para confirmar o funcionamento, mostrada no link abaixo.
 
-Figura 03 - Simulação no TinkerCad
+https://www.tinkercad.com/things/9N51FmTgMDg-projeto-sensor-de-presenca-fcsc
+
 
 ### 4. RESULTADOS E DISCUSSÃO <a name="resultados-e-discussao"></a>
 
