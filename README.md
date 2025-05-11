@@ -54,7 +54,7 @@ Além disso o sensor também monitora a quantidade de pessoas que entram, saem e
 
 Um dos blocos mais importantes do projeto é o sensor HC-SR04, que é um sensor ultrasônico que emite periodicamente pulsos sonoros de alta frequência pelo pino “echo”, e capta a saída pelo pino ativador “trigger” que fica conectado à uma saída digital do arduino, dessa maneira é possível medir as distâncias que um objeto fica a partir do centro do sensor, que tem uma área de cobertura cônica, como mostra a figura abaixo.
 
-![Sensor HC-SR04](imagens/HC_SR04.png)
+![Sensor HC-SR04](imagens/Sensor_HC_SR04.png)
 Figura 1 - Sensor HC-SR04 no tinkercad
 
 Assim então é calculado o tempo em que o pino "Echo" ficou em nível alto, ou seja, recebeu um sinal emitido pelo trigger e refletido pelo objeto que estava na frente do sensor.
