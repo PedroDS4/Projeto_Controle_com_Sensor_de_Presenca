@@ -312,9 +312,8 @@ https://www.tinkercad.com/things/9N51FmTgMDg-projeto-sensor-de-presenca-fcsc
 
 O projeto foi concluído com sucesso. A quantidade de pessoas que entraram e saíram da sala foi calculada corretamente. Essa contagem foi utilizada para acender um LED, mostrando como o sistema funciona. Por exemplo, quando dez pessoas entravam na sala, o LED era acionado. Além disso, a análise dos gráficos permitiu que a equação que mostra a relação entre o número de entradas, saídas e o número total de pessoas na sala fosse verificada: $N_{entradas} - N_{saídas} = N_{pessoas\_na\_sala}$.
 
-Figura 04 - Implementação prática
-
-Figura 05 - Verificação do LED
+![Legenda da Imagem](imagens/projeto_teste.png)
+Figura 03 - Implementação prática
 
 ### 5. CONCLUSÃO <a name="conclusao"></a>
 
