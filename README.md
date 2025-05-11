@@ -8,9 +8,13 @@
 
 **Discentes:**
 Pedro Arthur Oliveira dos Santos
+
 Jerfeson da Silva Santos
+
 Maria Beatryz Salviano de Silveira
+
 Juan Pablo Hortêncio Ferreira
+
 Marcelo Jorge Oliveira de Albuquerque Melo
 
 **Orientador:**
